@@ -1,0 +1,15 @@
+intoa=10;
+intb=20;
+ctrser();
+intadd,sub,mult.div.mod;
+add=a+b;
+printf("theadditionis%d\n;add);
+sub=a-b;
+printf("thesubtradtionis%d\n,"sub);
+mult=a×bi
+pointf("themultiplicationis%d\n",
+c=ab;
+prinlf("thedivisionis%d\n",mod)
+c=a%b;
+print("themodulusis%d\n",mod)
+getch();
